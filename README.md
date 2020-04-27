@@ -11,10 +11,10 @@ Pre-Loader Before Webpage Appears.
                     <div class="spinner"></div>
                     <div class="txt-loading">
                          <span data-text-preloader="F." class="letters-loading">
-                            F
+                            F.
                         </span>
                          <span data-text-preloader="H." class="letters-loading">
-                            H
+                            H. 
                         </span>
                         
                         <span data-text-preloader="S" class="letters-loading">
