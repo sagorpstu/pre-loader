@@ -10,6 +10,13 @@ Pre-Loader Before Webpage Appears.
                 <div class="animation-preloader">
                     <div class="spinner"></div>
                     <div class="txt-loading">
+                         <span data-text-preloader="F." class="letters-loading">
+                            F
+                        </span>
+                         <span data-text-preloader="H." class="letters-loading">
+                            H
+                        </span>
+                        
                         <span data-text-preloader="S" class="letters-loading">
                             S
                         </span>
@@ -24,12 +31,6 @@ Pre-Loader Before Webpage Appears.
                         </span>
                         <span data-text-preloader="R" class="letters-loading">
                             R
-                        </span>
-                         <span data-text-preloader="F" class="letters-loading">
-                            F
-                        </span>
-                         <span data-text-preloader="H" class="letters-loading">
-                            H
                         </span>
                     </div>
                 </div>
